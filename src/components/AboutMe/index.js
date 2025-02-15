@@ -1,4 +1,4 @@
-import "../AboutMe/aboutme.css"
+import "../AboutMe/aboutme.module.css"
 
 function AboutMe() {
     return (
